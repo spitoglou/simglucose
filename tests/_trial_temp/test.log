@@ -1,0 +1,2 @@
+2019-06-12 09:36:14+0300 [-] Log opened.
+2019-06-12 09:36:14+0300 [-] /home/stavros/miniconda3/envs/simglucose/lib/python3.7/site-packages/gym/envs/registration.py:17: pkg_resources.PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
